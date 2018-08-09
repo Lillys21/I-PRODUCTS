@@ -1,0 +1,58 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.order, .login{
+    color: white;
+    font-size: 15px;
+}
+
+.login a{
+    color: white;
+    text-decoration: none;
+}
+ .two{
+    height: 2px;
+    width: 5%;
+    background-color: black;
+    /*border-bottom: 4px solid #C31326;*/
+ }
+
+  .one{
+    height: 2px;
+    width: 2%;
+    background-color: black;
+    /*border-bottom: 4px solid #C31326;*/
+  }
+
+
+  #offers{
+      font-size: 15px;
+  }
+
+  .fondo{
+      background-color: black;
+  }
+
+  .borde{
+      border: none;
+  }
+
+
+  .briefcase{
+      font-size: 50px;
+  }
+
+  .three{
+    height: 0px;
+    width: 100%;
+    background-color: #85929E;   
+  }
+
+  .four{
+    height: 4px;
+    width: 20%;
+    background-color: white;   
+  }
+
+ 
