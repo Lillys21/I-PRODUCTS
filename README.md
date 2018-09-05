@@ -1,9 +1,5 @@
 # I-PRODUCTS
 
-## Descripción:
-
-### EL RETO
-
 Como reto final de este curso deberás crear una app web bajo los principios de SPA (Single page aplication).
 
 Para ello debes entender y aplicar los siguientes conceptos.
@@ -24,6 +20,11 @@ Desarrolla el producto teniendo como guía visual a este diseño.
 Interactúa con la página para que veas el proceso de compra.
 
 Despliega tu repositorio a GH Pages explicando en qué consiste el reto en tu archivo README.md
+
+![p](https://user-images.githubusercontent.com/37524945/45119767-f0fdc480-b121-11e8-9324-3b56aa251a5d.jpeg)
+
+## DESARROLLADO PARA
+[Laboratoria](http://laboratoria.la)
 
 
 
