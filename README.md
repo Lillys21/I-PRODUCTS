@@ -21,7 +21,8 @@ Interactúa con la página para que veas el proceso de compra.
 
 Despliega tu repositorio a GH Pages explicando en qué consiste el reto en tu archivo README.md
 
-![p](https://user-images.githubusercontent.com/37524945/45119767-f0fdc480-b121-11e8-9324-3b56aa251a5d.jpeg)
+![i-products](https://user-images.githubusercontent.com/37524945/45132919-5cfb1f80-b158-11e8-98f3-1890d4e413b4.jpeg)
+
 
 ## DESARROLLADO PARA
 [Laboratoria](http://laboratoria.la)
